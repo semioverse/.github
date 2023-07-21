@@ -1,7 +1,7 @@
 ## Welcome to the Semioverse ! 🌌
 Get ready to dive into a universe where play, interaction, and meaning collide! 🚀 The Semioverse is a playground for semiotic programming, opening up a world of potential for game designers, developers, researchers, activists, environmentalists, and curious minds.
 
-In the heart of this cosmos, you'll encounter the **Oxel**, a transformative data structure that reimagines how we compose, weave, and interpret networks of relationships. **Oxels are Organizational Elements**. Every Oxel is a perspective, a unique viewpoint within a complex, semio-dimensional relational graph. They can hold any data type, even other Oxels, enabling intricate and dynamic interconnections.
+In the heart of this cosmos, you'll encounter **Oxels: Organizational Elements**. Oxels are a transformative data structure that reimagines how we compose, weave, and interpret networks of relationships. Every Oxel is a perspective, a unique viewpoint within a complex, semio-dimensional relational graph. They can hold any data type, even other Oxels, enabling intricate and dynamic interconnections.
 
 But that's not all! Oxels come alive with their metaphoric capabilities. Imagine being able to traverse metaphorical bridges, connecting disparate concepts and systems, and uncovering unexpected insights along the way! 🌉 Oxels make this possible, turning the Semioverse into a space of exploration and discovery.
 
