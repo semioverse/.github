@@ -13,4 +13,4 @@ In essence, the Semioverse is a space to play, explore, and create. It's an open
 
 So, are you ready to play? To weave, thread, and navigate through the Semioverse? Get ready to step into a universe of possibilities, where Oxels are the language and the landscape! 🎴🌌🎲
 
-_**Welcome to the Semioverse, let's Play!**_
+_Welcome to the Semioverse, let's Play!_
